@@ -1,0 +1,10 @@
+{
+  "description": "Нежный и удобный сайт прихода храма Рождества Христова в Бресте: знакомит с храмом, показывает расписание богослужений и рассказывает о последних событиях.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
